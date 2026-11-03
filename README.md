@@ -9,7 +9,7 @@ with a focus on pathogen genomics.
 - Learned that > writes output to a file (and overwrites it)
 - Built my first folder structure: bioinfo/practice/hello.txt
 
-## Day 2 - Tue 3 Nov 2026
+## Day 2 – Tue 3 Nov 2026
 - Learned absolute vs relative paths
 - Learned cp, mv, mkdir -p, ls -l / -a / lh, man
 - Used find . to list all files in a folder
