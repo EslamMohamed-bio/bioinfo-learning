@@ -3,26 +3,12 @@
 PhD researcher in veterinary virology (Ghent University) learning bioinformatics,
 with a focus on pathogen genomics.
 
-## Day 1 – Mon 2 Nov 2026
-- Set up Terminal on macOS and installed Git (2.24.3)
-- Learned basic commands: whoami, pwd, ls, mkdir, cd, echo, cat
-- Learned that > writes output to a file (and overwrites it)
-- Built my first folder structure: bioinfo/practice/hello.txt
+## Day 1 - Sat 14 Nov 2026
+## Virology Lectures 2026 
+- #1: What is a virus?
+- #2: The Infectious Cycle
 
-## Day 2 – Tue 3 Nov 2026
-- Learned absolute vs relative paths
-- Learned cp, mv, mkdir -p, ls -l / -a / lh, man
-- Used find . to list all files in a folder
-  
-My folder structure:
-```
-bioinfo
-    notes.txt
-    ehv_project/
-        raw_data/
-            sample1.fasta
-        results/
-        scripts/
-    practice/
-        hello.txt
-```
+## Day 2 – Sat 21 Nov 2026
+## Programming for Everybody (Getting Started with Python)
+- #1: Why we Program
+- #2: Installing Python
